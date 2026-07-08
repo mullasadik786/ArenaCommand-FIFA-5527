@@ -1,0 +1,8 @@
+{
+  "name": "ArenaCommand FIFA 2026",
+  "description": "An AI-powered full-stack stadium operations and fan experience companion for the FIFA World Cup 2026. Includes interactive crowd heatmaps, multilingual incident response dispatches, real-time fan support, and venue diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
